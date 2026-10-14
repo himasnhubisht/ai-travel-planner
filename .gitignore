@@ -7,3 +7,7 @@ __pycache__/
 travel_checkpoints.sqlite
 frontend/node_modules/
 frontend/dist/
+travel_checkpoints.sqlite*
+
+__pycache__/
+*.py[cod]
